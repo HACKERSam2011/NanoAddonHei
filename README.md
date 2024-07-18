@@ -1,6 +1,6 @@
 <div align="center">
 
-# 纳米展流黑(NanoAddonHei)
+# 纳米展流黑(NanoAddonHei) [永久停更]
 ### 作者：HACKERSam    |    邮箱:3582930858@qq.com
 </div>
 
@@ -38,5 +38,5 @@
 
 > [!WARNING]
 >
-> 非常抱歉，因网络原因，HACKERSam未将新版本上传到此地，请稍等片刻
+> 很抱歉，此作品已停更，而且是永久停更（老子不干啦！
 
